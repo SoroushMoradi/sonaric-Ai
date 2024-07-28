@@ -9,7 +9,7 @@ from Dante Github.
 
 Reward: Confirmed
 
-Minimal Systems Requirements:
+Minimal Systems Requirements:  
 ✅ 4 GB RAM  
 ✅ 2 CPU cores  
 ✅ 20 GB free disk space  
